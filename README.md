@@ -5,7 +5,7 @@ The plain word alignment files are [difficult](src/main/resources/sample1.align)
 
 ## Obtaining align2tex
 
-A prebuilt version of align2tex will be available as a release.
+A prebuilt version of align2tex is available as a [release](https://github.com/rug-compling/align2tex/releases/latest).
 
 ## Building align2tex
 
