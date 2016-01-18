@@ -1,7 +1,7 @@
 # align2tex
 ## Creates LaTeX source from word alignments
 
-The plain word alignment files are [difficult](src/main/resources/sample.align) to read and interpret for a human. This simple tool lets you visualize the word alignments between parallel sentences by drawing edges between words. It outputs a LaTeX file (relying on TikZ) that can be compiled to PDF.
+The plain word alignment files are [difficult](src/main/resources/sample1.align) to read and interpret for a human. This simple tool lets you visualize the word alignments between parallel sentences by drawing edges between words. It outputs a LaTeX file (relying on TikZ) that can be compiled to PDF.
 
 ## Obtaining align2tex
 
