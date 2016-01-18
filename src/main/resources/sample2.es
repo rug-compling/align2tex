@@ -1,0 +1,1 @@
+SAN FRANCISCO – Nunca ha resultado fácil sostener una conversación racional sobre el valor del oro .
